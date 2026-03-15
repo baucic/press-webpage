@@ -1,0 +1,38 @@
+[
+  {
+    "publishedTime": "2026-03-13T00:00:00Z",
+    "eventTime": "2026-03-12T00:00:00Z",
+    "title": "Koncert pasionske glazbene baštine održan u crkvi sv. Nikole u Zadru",
+    "uri": "article/2026/03/13/001.html",
+    "img": "article/2026/03/13/001.webp",
+    "type": "EVENT",
+    "place": "Zadar"
+  },
+  {
+    "publishedTime": "2026-03-07T00:00:00Z",
+    "eventTime": "2026-03-07T00:00:00Z",
+    "title": "Rana proljetna ponuda na zadarskoj tržnici",
+    "uri": "article/2026/03/07/001.html",
+    "img": "article/2026/03/07/001.webp",
+    "type": "PLACE",
+    "place": "Zadar"
+  },
+  {
+    "publishedTime": "2026-02-28T00:00:00Z",
+    "eventTime": "2026-02-28T00:00:00Z",
+    "title": "Jutarnja magla u Zadru 27. i 28. veljače",
+    "uri": "article/2026/02/28/001.html",
+    "img": "article/2026/02/28/001.jpg",
+    "type": "PLACE",
+    "place": "Zadar"
+  },
+  {
+    "publishedTime": "2026-02-25T00:00:00Z",
+    "eventTime": "2026-02-24T00:00:00Z",
+    "title": "WINE ViP Event 2026 u Zadru",
+    "uri": "article/2026/02/24/001.html",
+    "img": "article/2026/02/24/DSC04432.webp",
+    "type": "EVENT",
+    "place": "Zadar"
+  }
+]
